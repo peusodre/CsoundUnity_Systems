@@ -1,2 +1,2 @@
 # CsoundUnity_Systems
-This repository contains a couple CsoundUnity systems I have developed.
+These are CsoundUnity implementations of Csound instruments done as part of the Offering Interactive installation. More information can be found at https://pedrosodre.co/.
